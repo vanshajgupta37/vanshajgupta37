@@ -2,8 +2,14 @@
 # Hey there! I'm Vanshaj Gupta!!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshajgupta37&label=Profile%20views&color=0e75b6&style=flat" alt="vanshajgupta37" /> </p>
 
-# 💫 About Me:
-Hi.<br>I am a Full-Stack developer.<br>
+# 💫 About Me  
+Hi, I’m a Full-Stack Developer passionate about creating impactful digital experiences.  
+- 🔭 Currently building web apps with modern tools and scalable backends.  
+- 🌱 Exploring advanced JavaScript and server-side development.  
+- 👯 Open to collaborating on innovative full-stack or AI-driven projects.  
+- 🤔 Always looking to refine real-time features and optimize performance.
+- ⚡ Fun fact: I explain stuff like it’s storytime for a 10-year-old.  
+
 
 
 ## 🌐 Socials:
@@ -15,6 +21,14 @@ Hi.<br>I am a Full-Stack developer.<br>
 ![](https://github-readme-stats.vercel.app/api?username=vanshajgupta37&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vanshajgupta37&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshajgupta37&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vanshajgupta37&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vanshajgupta37&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 
 <!--
