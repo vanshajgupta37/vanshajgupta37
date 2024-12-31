@@ -1,5 +1,5 @@
 
-# Hey there! I'm Vanshaj Gupta!!
+# Hey there! I'm Vanshaj Gupta!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshajgupta37&label=Profile%20views&color=0e75b6&style=flat" alt="vanshajgupta37" /> </p>
 
 # 💫 About Me  
