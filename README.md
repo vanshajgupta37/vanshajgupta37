@@ -5,8 +5,8 @@
 # 💫 About Me  
 Hi, I’m a Full-Stack Developer passionate about creating impactful digital experiences.  
 - 🔭 Currently building web apps with modern tools and scalable backends.  
-- 🌱 Exploring advanced JavaScript and server-side development.  
-- 👯 Open to collaborating on innovative full-stack or AI-driven projects.  
+- 🌱 Exploring Data Analysis/Segmentation with Rule Based Algorithms (HashBased/Resnet-Based) [Python, FastAPI].  
+- 👯 Open to collaborating on AI-driven projects.
 - 🤔 Always looking to refine real-time features and optimize performance.
 - ⚡ Fun fact: I explain stuff like it’s storytime for a 10-year-old.  
 
